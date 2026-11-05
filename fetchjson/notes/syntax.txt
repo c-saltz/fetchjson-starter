@@ -1,0 +1,15 @@
+Primitive Types
+-string
+-number
+-boolean
+-void
+-null
+-undefined
+
+Object Types
+-functions
+-arrays
+-classes
+-objects
+
+interface -> define custom type of variable
